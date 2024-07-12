@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple portfolio showcasing my expertise in Python, Node.js, AWS, and DevOps. The website is hosted on AWS using S3 for storage, CloudFront for content delivery, and Route 53 for DNS management. This project demonstrates my ability to build and deploy scalable and efficient applications using modern web technologies.
+This is a simple static portfolio. The website is hosted on AWS using S3 for storage, CloudFront for content delivery, and Route 53 for DNS management. This project demonstrates my ability to build and deploy scalable and efficient applications using modern web technologies.
 
 ## Technologies Used
 
@@ -26,3 +26,6 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-github-username/developer-portfolio.git
+
+2. **Live Demo**
+You can view the live version of this portfolio at https://static.dicksonamenyo.com/
